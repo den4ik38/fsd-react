@@ -1,5 +1,8 @@
 {
+  "Decrement": "Decrement",
+  "Increment": "Increment",
   "throw error": "throw error",
+  "value = ": "value = ",
   "Войти": "Войти",
   "Главная": "Главная",
   "Главная страница": "Главная страница",

@@ -1,0 +1,14 @@
+{
+	"Create react test component": {
+	"scope": "typescript, typescriptreact",
+	"prefix": "crtc",
+	"body": [
+		"describe('${TM_FILENAME_BASE}', () => {",
+				"test('', () => {",
+						"expect(${TM_FILENAME_BASE}()).toEqual();",
+				"});",
+		"});",
+	],
+	"description": "Создать тест для реакт компонента"
+	}
+}

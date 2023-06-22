@@ -7,7 +7,6 @@ import { Sidebar } from 'widgets/Sidebar';
 
 function App() {
     const { theme } = useTheme();
-    const [isOpen, setIsOpen] = useState(false);
 
     return (
         <div className={classNames('app', {}, [theme])}>
