@@ -1,0 +1,11 @@
+{
+  "Ваше имя": "Your name",
+  "Ваша фамилия": "Your surname",
+  "Страна":"Country",
+  "Валюта": "Currency",
+  "Возраст должен быть целочисленным числом": "Age must be Integer",
+  "Поле страна обязателен к заполнению": "Country cant be empty",
+  "Имя и фамилия не могут быть пустыми": "Name and lastname cant be empty",
+  "Данные не указаны": "No data",
+  "Серверная ошибка при сохранении": "Server error"
+}
